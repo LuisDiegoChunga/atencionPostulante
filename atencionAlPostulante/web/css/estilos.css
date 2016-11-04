@@ -1,0 +1,35 @@
+#tituloLog{
+    margin-left: 200px;
+}
+
+#cuadro{
+    border-top-color: #265a88;
+    background-color: #265a88;
+}
+
+#section-tabs{
+    color: #ffffff;
+}
+
+#login{
+	margin-top: 5%;
+	margin-bottom: 20%;
+	width: 500px;
+}
+
+#contenido{
+    background-color: lavender;
+}
+
+#codExaC{
+    background-color: #e8e8e8;
+}
+
+#codEnt{
+    background-color: #e8e8e8;
+}
+
+#codP{
+    background-color: #e8e8e8;
+}
+
